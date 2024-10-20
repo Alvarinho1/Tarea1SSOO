@@ -53,6 +53,7 @@ Este es un simulador de carrera de autos implementado en C++ utilizando hilos (t
    sudo apt install htop
 
    Presione F4 para filtrar resultados, y escriba "./carrera" para ver el proceso de la carrera.
+   
    Presione F5 para cambiar a vista tree, esto permitira ver las hebras en tiempo real.
 
    Vuelva a la terminal anterior y ejecute nuevamente el programa con el comando:
