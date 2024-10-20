@@ -19,7 +19,7 @@ Este es un simulador de carrera de autos implementado en C++ utilizando hilos (t
    
    Ingrese a la terminal de su sistema operativo Linux y ejecute el siguiente comando para clonar el repositorio:
    
-   git clone https://github.com/Alvarinho1/Tarea1SSOO.git
+   "git clone https://github.com/Alvarinho1/Tarea1SSOO.git"
 
    Si no tiene git instalado, puede hacerlo con:
    
@@ -48,7 +48,12 @@ Este es un simulador de carrera de autos implementado en C++ utilizando hilos (t
    
    htop
    
-   Diríjase al final de la lista para ver el proceso de la carrera y sus hebras.
+   De no tenerlo descargado, ocupe el siguiente comando:
+
+   sudo apt install htop
+
+   Presione F4 para filtrar resultados, y escriba "./carrera" para ver el proceso de la carrera.
+   Presione F5 para cambiar a vista tree, esto permitira ver las hebras en tiempo real.
 
    Vuelva a la terminal anterior y ejecute nuevamente el programa con el comando:
    
