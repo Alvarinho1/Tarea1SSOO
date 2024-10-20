@@ -15,7 +15,8 @@ Este es un simulador de carrera de autos implementado en C++ utilizando hilos (t
 
 ## Instrucciones para la instalación y ejecución
 
-1. **Clonar el repositorio**  
+1. **Clonar el repositorio**
+   
    Ingrese a la terminal de su sistema operativo Linux y ejecute el siguiente comando para clonar el repositorio:
    
    git clone https://github.com/Alvarinho1/Tarea1SSOO.git
@@ -25,6 +26,7 @@ Este es un simulador de carrera de autos implementado en C++ utilizando hilos (t
    sudo apt install git
 
 3. **Acceder al directorio del proyecto**
+   
    Una vez clonado el repositorio, ingrese al directorio del proyecto con:
    
    cd Tarea1SSOO
@@ -37,6 +39,7 @@ Este es un simulador de carrera de autos implementado en C++ utilizando hilos (t
    ejemplo: ./carrera 350 4
 
 7. **Monitorear las hebras usando htop**
+   
    Abra una nueva terminal y navegue nuevamente al directorio del proyecto:
    
    cd Tarea1SSOO
